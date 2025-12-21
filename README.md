@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Zmd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2RG7PEv9YLZ/giphy.gif" width="300" alt="Coding Cat" />
+ 
   <h1>Hi 👋, I'm Hatice Kübra Ocak</h1>
   <h3>Student | AI, Mobile Development & Data Science Enthusiast</h3>
 </div>
@@ -46,9 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kubraocak910&show_icons=true&theme=tokyonight&layout=compact" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubraocak910&theme=tokyonight" width="710" />
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/kubraocak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
