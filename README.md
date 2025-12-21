@@ -52,5 +52,5 @@
   <a href="https://linkedin.com/in/kubraocak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@kubraocak6190" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
-### 🐍 My Contributions Snake
+
 ![snake gif](https://raw.githubusercontent.com/kubraocak910/kubraocak910/output/github-contribution-grid-snake.svg)
