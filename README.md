@@ -1,32 +1,56 @@
-[![MasterHead](https://tenor.com/tr/view/cat-gif-26024704)
-<h1 align="center">Merhaba 👋, ben Hatice Kübra Ocak</h1>
-<h3 align="center">"Öğrenci Yapay Zeka, Mobil Geliştirme ve Veri Bilimine odaklandı.</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Zmd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2RG7PEv9YLZ/giphy.gif" width="300" alt="Coding Cat" />
+  <h1>Hi 👋, I'm Hatice Kübra Ocak</h1>
+  <h3>Student | AI, Mobile Development & Data Science Enthusiast</h3>
+</div>
 
-<p hizalama="sol"> <img src="https://komarev.com/ghpvc/?username=kubraocak910&label=Profile%20views&color=0e75b6&style=flat" alt="kubraocak910" /> </p>
-
-<p hizalama="sol"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubraocak910" alt="kubraocak910" /></a> </p>
-
-- 🔭 Şu anda **WorkHive,Ay-ka,Üniversite Mezuniyet Projem üzerinde çalışıyorum.**
-
-- 🌱 Şu anda öğreniyorum **NLP | Bilgisayarlı Görme | Makine Öğrenimi | Veri Mühendisliği | Çırpıntı | Tepki | Doğal Dil İşleme | Bilgisayar Mimarisi | Algoritmaların Analizi | İşletim Sistemleri**
-
-- 💬 Bana sor **C | Java | Python | Mobil Programlama ve Tasarım | Veri Yapıları | OOP | Dijital Elektronik | Otomata Teorisi | TRobject | Clomosy**
-
-- 📫 Bana nasıl ulaşılır **kubraocak910@gmail.com**
-
-- ⚡ Eğlenceli gerçek **'Kübra' kimliğimde yok; kim olduğumu yansıttığı için kendime seçtiğim bir isim. Koduma ve hayatıma getirdiğim kimlik. ✨**
-
-<h3 hizala="sol">Bana bağlan:</h3>
-<p hizala="sol">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kubraocak/" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kubraocak/" yükseklik="30" genişlik="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@kubraocak6190?si=myjxnkqji5f6_bai" hedef="boş"><img hizalama="merkez" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@kubraocak6190?si=myjxnkqji5f6_bai" yükseklik="30" genişlik="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kubraocak910&label=Profile%20views&color=0e75b6&style=flat-square" alt="kubraocak910" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p hizala="sol"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" genişlik="40" yükseklik="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" genişlik="40" yükseklik="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" genişlik="40" yükseklik="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" genişlik="40" yükseklik="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" genişlik="40" yükseklik="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" genişlik="40" yükseklik="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" genişlik="40" yükseklik="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" genişlik="40" yükseklik="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" genişlik="40" yükseklik="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" genişlik="40" yükseklik="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" genişlik="40" yükseklik="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandalar" genişlik="40" yükseklik="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-orijinal-wordmark.svg" alt="postgresql" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" genişlik="40" yükseklik="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" genişlik="40" yükseklik="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" genişlik="40" yükseklik="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"genişlik="40" yükseklik="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubraocak910&show_icons=true&locale=en&layout=compact" alt="kubraocak910" /></p>
+### 🚀 About Me
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kubraocak910&show_icons=true&locale=en" alt="kubraocak910" /></p>
+- 🔭 Currently working on: **WorkHive, Ay-ka, and my Senior Graduation Project.**
+- 🌱 Improving my skills in: **NLP, Computer Vision, Machine Learning, Data Engineering, Flutter, and React.**
+- 🎓 Studying: **Computer Architecture, Analysis of Algorithms, and Operating Systems.**
+- 💬 Ask me about: **C, Java, Python, Mobile Design, Data Structures, OOP, Digital Electronics, Automata Theory, TRobject, and Clomosy.**
+- 📫 Reach me at: **kubraocak910@gmail.com**
+- ⚡ Fun fact: **'Kübra' isn't on my ID; it's a name I chose for myself because it reflects who I am. It's the identity I bring to my code and my life. ✨**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubraocak910&" alt="kubraocak910" /></p>
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kubraocak910&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kubraocak910&show_icons=true&theme=tokyonight&layout=compact" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubraocak910&theme=tokyonight" width="710" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kubraocak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@kubraocak6190" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
