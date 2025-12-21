@@ -1,7 +1,13 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Zmd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2RG7PEv9YLZ/giphy.gif" width="300" alt="Coding Cat" />
   <h1>Hi 👋, I'm Hatice Kübra Ocak</h1>
   <h3>Student | AI, Mobile Development & Data Science Enthusiast</h3>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kubraocak910&label=Profile%20views&color=0e75b6&style=flat-square" alt="kubraocak910" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+</p>
 
 ---
 
@@ -13,11 +19,6 @@
 - 💬 Ask me about: **C, Java, Python, Mobile Design, Data Structures, OOP, Digital Electronics, Automata Theory, TRobject, and Clomosy.**
 - 📫 Reach me at: **kubraocak910@gmail.com**
 - ⚡ Fun fact: **'Kübra' isn't on my ID; it's a name I chose for myself because it reflects who I am. It's the identity I bring to my code and my life. ✨**
-
----
-
-### 🐍 My Contributions Snake
-![snake gif](https://raw.githubusercontent.com/kubraocak910/kubraocak910/output/github-contribution-grid-snake.svg)
 
 ---
 
