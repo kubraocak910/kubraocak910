@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Zmd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2RG7PEv9YLZ/giphy.gif" width="300" alt="Coding Cat" />
+  <img src="https://media.tenor.com/A-R567y8s9UAAAAC/csharp-cat-programmer.gif" width="350" alt="Razer Coding Cat" />
   <h1>Hi 👋, I'm Hatice Kübra Ocak</h1>
   <h3>Student | AI, Mobile Development & Data Science Enthusiast</h3>
 </div>
