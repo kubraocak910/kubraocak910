@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h1>Hi 👋, I'm Hatice Kübra Ocak</h1>
+  <h1>Hi 👋, I'm Hatice Ocak</h1>
   <h3>Student | AI, Mobile Development & Data Science Enthusiast</h3>
 </div>
 
